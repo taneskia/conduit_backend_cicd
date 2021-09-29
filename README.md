@@ -4,7 +4,7 @@
 
 **Note**: _The website may take a minute to load sometimes, as the server may be in hibernate state_
 
-**_An Express and NodeJS based backend implementation of the [RealWorldAPI](https://github.com/gothinkster/realworld/tree/master/api) Spec._**
+**_An Express and NodeJS based backend implementation of the [RealWorldAPI](https://github.com/gothinkster/realworld/tree/master/api) Spec._** 
 
 _Also **approved** by realworld.io and listed on their [project's home page](https://codebase.show/projects/realworld?category=backend&language=javascript)_.
 
